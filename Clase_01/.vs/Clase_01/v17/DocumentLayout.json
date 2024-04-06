@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultad\\poo\\clases\\Clase_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E418565-0E76-43E5-8838-CBB91786428C}|Clase_01\\Clase_01.csproj|c:\\facultad\\poo\\clases\\clase_01\\clase_01\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1E418565-0E76-43E5-8838-CBB91786428C}|Clase_01\\Clase_01.csproj|solutionrelative:clase_01\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747CA00A-E035-4AD5-B5AE-0ED2048D0271}|LIBRERIA\\LIBRERIA.csproj|C:\\facultad\\poo\\clases\\Clase_01\\libreria\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747CA00A-E035-4AD5-B5AE-0ED2048D0271}|LIBRERIA\\LIBRERIA.csproj|solutionrelative:libreria\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_01\\Clase_01\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Clase_01\\ClassDiagram1.cd",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_01\\Clase_01\\ClassDiagram1.cd",
+              "RelativeToolTip": "Clase_01\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-06T19:24:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libreria.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_01\\LIBRERIA\\Libreria.cs",
+              "RelativeDocumentMoniker": "LIBRERIA\\Libreria.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_01\\LIBRERIA\\Libreria.cs",
+              "RelativeToolTip": "LIBRERIA\\Libreria.cs",
+              "ViewState": "AQIAAAgAAAAqMzMzM7MywBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:01:24.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
