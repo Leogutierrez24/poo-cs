@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\facultad\\poo\\clases\\Clase_01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E418565-0E76-43E5-8838-CBB91786428C}|Clase_01\\Clase_01.csproj|c:\\facultad\\poo\\clases\\clase_01\\clase_01\\libreria_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E418565-0E76-43E5-8838-CBB91786428C}|Clase_01\\Clase_01.csproj|solutionrelative:clase_01\\libreria_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E418565-0E76-43E5-8838-CBB91786428C}|Clase_01\\Clase_01.csproj|c:\\facultad\\poo\\clases\\clase_01\\clase_01\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{1E418565-0E76-43E5-8838-CBB91786428C}|Clase_01\\Clase_01.csproj|solutionrelative:clase_01\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
@@ -39,6 +43,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Libreria_frm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_01\\Clase_01\\Libreria_frm.cs",
+              "RelativeDocumentMoniker": "Clase_01\\Libreria_frm.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_01\\Clase_01\\Libreria_frm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase_01\\Libreria_frm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:02:46.04Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_01\\Clase_01\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Clase_01\\ClassDiagram1.cd",
@@ -50,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Libreria.cs",
               "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_01\\LIBRERIA\\Libreria.cs",
               "RelativeDocumentMoniker": "LIBRERIA\\Libreria.cs",
@@ -58,8 +74,7 @@
               "RelativeToolTip": "LIBRERIA\\Libreria.cs",
               "ViewState": "AQIAAAgAAAAqMzMzM7MywBIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T01:01:24.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T01:01:24.926Z"
             }
           ]
         }

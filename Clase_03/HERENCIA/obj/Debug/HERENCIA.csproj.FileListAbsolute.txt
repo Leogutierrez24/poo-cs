@@ -1,0 +1,10 @@
+C:\facultad\poo\clases\Clase_03\HERENCIA\bin\Debug\HERENCIA.exe.config
+C:\facultad\poo\clases\Clase_03\HERENCIA\bin\Debug\HERENCIA.exe
+C:\facultad\poo\clases\Clase_03\HERENCIA\bin\Debug\HERENCIA.pdb
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.csproj.AssemblyReference.cache
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.Form1.resources
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.Properties.Resources.resources
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.csproj.GenerateResource.cache
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.csproj.CoreCompileInputs.cache
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.exe
+C:\facultad\poo\clases\Clase_03\HERENCIA\obj\Debug\HERENCIA.pdb

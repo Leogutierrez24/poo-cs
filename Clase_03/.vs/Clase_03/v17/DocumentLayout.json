@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultad\\poo\\clases\\Clase_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|c:\\facultad\\poo\\clases\\clase_03\\herencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|solutionrelative:herencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|c:\\facultad\\poo\\clases\\clase_03\\herencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|solutionrelative:herencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|c:\\facultad\\poo\\clases\\clase_03\\herencia\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|solutionrelative:herencia\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|c:\\facultad\\poo\\clases\\clase_03\\herencia\\guitarraelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155C5DB5-648A-4753-8EEE-9B910D30F030}|HERENCIA\\HERENCIA.csproj|solutionrelative:herencia\\guitarraelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuitarraElectrica.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\GuitarraElectrica.cs",
+              "RelativeDocumentMoniker": "HERENCIA\\GuitarraElectrica.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\GuitarraElectrica.cs",
+              "RelativeToolTip": "HERENCIA\\GuitarraElectrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:36:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\Form1.cs",
+              "RelativeDocumentMoniker": "HERENCIA\\Form1.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\Form1.cs",
+              "RelativeToolTip": "HERENCIA\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAZmZmZmYCwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:19:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\Instrumento.cs",
+              "RelativeDocumentMoniker": "HERENCIA\\Instrumento.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\Instrumento.cs",
+              "RelativeToolTip": "HERENCIA\\Instrumento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:02:19.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\Form1.cs",
+              "RelativeDocumentMoniker": "HERENCIA\\Form1.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\Clase_03\\HERENCIA\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HERENCIA\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:01:12.934Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
