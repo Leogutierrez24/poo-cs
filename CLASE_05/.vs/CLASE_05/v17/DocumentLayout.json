@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultad\\poo\\clases\\CLASE_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|c:\\facultad\\poo\\clases\\clase_05\\clase_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|solutionrelative:clase_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|c:\\facultad\\poo\\clases\\clase_05\\clase_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|solutionrelative:clase_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|c:\\facultad\\poo\\clases\\clase_05\\clase_05\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|solutionrelative:clase_05\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|c:\\facultad\\poo\\clases\\clase_05\\clase_05\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|solutionrelative:clase_05\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|c:\\facultad\\poo\\clases\\clase_05\\clase_05\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F89425F-31B8-43C7-BC3A-D8260FFC397C}|CLASE_05\\CLASE_05.csproj|solutionrelative:clase_05\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Profesor.cs",
+              "RelativeDocumentMoniker": "CLASE_05\\Profesor.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Profesor.cs",
+              "RelativeToolTip": "CLASE_05\\Profesor.cs",
+              "ViewState": "AQIAAAcAAABAZmZmZmYkwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:27:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "CLASE_05\\ClassDiagram1.cd",
+              "ToolTip": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\ClassDiagram1.cd",
+              "RelativeToolTip": "CLASE_05\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-08T23:26:35.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Form1.cs",
+              "RelativeDocumentMoniker": "CLASE_05\\Form1.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Form1.cs",
+              "RelativeToolTip": "CLASE_05\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:17:48.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Persona.cs",
+              "RelativeDocumentMoniker": "CLASE_05\\Persona.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Persona.cs",
+              "RelativeToolTip": "CLASE_05\\Persona.cs",
+              "ViewState": "AQIAAAgAAABwMzMzMzM3wAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:15:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Form1.cs",
+              "RelativeDocumentMoniker": "CLASE_05\\Form1.cs",
+              "ToolTip": "C:\\facultad\\poo\\clases\\CLASE_05\\CLASE_05\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CLASE_05\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:14:13.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\bin\Debug\WEBSOCKETS.exe.config
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\bin\Debug\WEBSOCKETS.exe
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\bin\Debug\WEBSOCKETS.pdb
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.csproj.AssemblyReference.cache
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.Form1.resources
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.Properties.Resources.resources
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.csproj.GenerateResource.cache
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.csproj.CoreCompileInputs.cache
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.exe
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.pdb
+C:\facultad\poo\clases\CLASE_13\WEBSOCKETS\obj\Debug\WEBSOCKETS.Form2.resources

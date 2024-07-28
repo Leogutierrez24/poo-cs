@@ -1,0 +1,10 @@
+C:\facultad\poo\clases\CLASE_05\CLASE_05\bin\Debug\CLASE_05.exe.config
+C:\facultad\poo\clases\CLASE_05\CLASE_05\bin\Debug\CLASE_05.exe
+C:\facultad\poo\clases\CLASE_05\CLASE_05\bin\Debug\CLASE_05.pdb
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.csproj.AssemblyReference.cache
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.Form1.resources
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.Properties.Resources.resources
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.csproj.GenerateResource.cache
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.csproj.CoreCompileInputs.cache
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.exe
+C:\facultad\poo\clases\CLASE_05\CLASE_05\obj\Debug\CLASE_05.pdb

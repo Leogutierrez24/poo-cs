@@ -1,0 +1,10 @@
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\bin\Debug\DelegadosEventos.exe.config
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\bin\Debug\DelegadosEventos.exe
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\bin\Debug\DelegadosEventos.pdb
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.csproj.AssemblyReference.cache
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.Form1.resources
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.Properties.Resources.resources
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.csproj.GenerateResource.cache
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.csproj.CoreCompileInputs.cache
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.exe
+C:\facultad\poo\clases\CLASE_10\DelegadosEventos\obj\Debug\DelegadosEventos.pdb
